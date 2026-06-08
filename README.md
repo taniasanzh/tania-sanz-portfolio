@@ -17,4 +17,4 @@ Si quieres clonar este proyecto y probarlo en tu entorno local, sigue estos paso
 
 1. Clona el repositorio:
 ```bash
-   git clone 
+   git clone https://github.com/taniasanzh/tania-sanz-portfolio.git
