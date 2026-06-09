@@ -1,1 +1,27 @@
 @import "tailwindcss";
+
+@theme {
+    /* bg */
+    --color-bg-primary: #fcfeff;
+    --color-bg-inverse: #161616;
+
+    /* text */
+    --color-text-main: #212121;
+    --color-text-muted: #6b7280;
+    --color-text-inverse: #f8fafc;
+    /* accent */
+    --color-mint: #6b9080; 
+    --color-mint-hover: #4E6A5E;
+    --color-burgundy: #6d0b04;
+    --color-burgundy-hover: #4a0702;
+
+    /* Typography */
+    --font-sans: "DM Sans", sans-serif;
+    --font-serif: "Instrument Serif", serif;
+}
+
+@layer base {
+  body {
+    @apply font-sans bg-bg-primary text-text-main;
+  }
+}
