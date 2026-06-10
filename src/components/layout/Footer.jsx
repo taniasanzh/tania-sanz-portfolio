@@ -1,4 +1,12 @@
 export default function Footer() {
+    // logic scroll 
+    const scrollToTop = () => {
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+        });
+    };
+
     return (
         <footer className="bg-bg-inverse text-text-inverse pt-20 pb-6 md:pb-2 px-8 text-left">
 
