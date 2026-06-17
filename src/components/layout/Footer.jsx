@@ -17,12 +17,13 @@ export default function Footer() {
                     <div className="flex flex-col">
                         <h2 className="flex items-baseline text-[100px] md:text-[10vw] tracking-tight leading-none">
                             <span className="font-script text-[1.5em] pr-4">T</span>
-                            <span className="font-serif uppercase tracking-wider">ania</span>
+                            <span className="font-serif uppercase tracking-wider pr-5">ania</span>
+                            <span className="font-script text-[1.5em] pr-4">S</span>
+                            <span className="font-serif uppercase tracking-wider">anz</span>
                         </h2>
 
                         <h2 className="flex items-baseline text-[100px] md:text-[10vw] tracking-tight leading-none md:ml-8">
-                            <span className="font-script text-[1.5em] pr-4">S</span>
-                            <span className="font-serif uppercase tracking-wider">anz</span>
+
                         </h2>
                     </div>
 
