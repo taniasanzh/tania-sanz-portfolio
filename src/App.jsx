@@ -1,6 +1,7 @@
 import Footer from './components/layout/Footer';
 import Hero from './components/sections/Hero';
 import Navbar from './components/layout/Navbar';
+import About from './components/sections/About';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <main className="grow flex items-center justify-center pt-20">
       </main>
       <Hero/>
+      <About/>
       <Footer />
     </div>
   )

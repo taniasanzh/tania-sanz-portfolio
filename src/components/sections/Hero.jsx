@@ -1,6 +1,6 @@
 export default function Hero() {
     return (
-        <section id="hero" className="relative w-full min-h-screen flex flex-col items-center px-8 2xl:px-16 pt-20">
+        <section id="hero" className="relative w-full flex flex-col items-center px-8 2xl:px-16 pt-20 pb-24 2xl:pb-70">
             {/* col 1 */}
             <div className="w-full max-w-7xl mx-auto grid grid-cols-1 2xl:grid-cols-2 gap-12 2xl:gap-8 items-center">
                 <div className="relative flex flex-col text-center 2xl:text-left z-10 order-2 2xl:order-1">
