@@ -2,6 +2,7 @@ import Footer from './components/layout/Footer';
 import Hero from './components/sections/Hero';
 import Navbar from './components/layout/Navbar';
 import About from './components/sections/About';
+import Stack from './components/sections/Stack';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       </main>
       <Hero/>
       <About/>
+      <Stack/>
       <Footer />
     </div>
   )
