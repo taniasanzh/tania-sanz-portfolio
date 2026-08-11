@@ -33,7 +33,7 @@ export default function Hero() {
                                 </svg>
                             </a>
 
-                            <div className="w-[1px] h-6 bg-gray-300"/>
+                            <div className="w-[1px] h-6 bg-gray-300" />
 
                             <a
                                 href="https://www.linkedin.com/in/tania-sanz-hartmann-9b10a6330/"
@@ -65,8 +65,9 @@ export default function Hero() {
                 </div>
 
                 {/* col 2 */}
+                {/* col 2 */}
                 <div className="flex justify-center items-center order-1 2xl:order-2">
-                    <div className="w-64 h-64 2xl:w-[400px] 2xl:h-[400px] bg-gray-200 overflow-hidden shadow-xl relative rounded-[60%_40%_30%_70%/60%_30%_70%_40%] hover:rounded-[40%_60%_70%_30%/50%_60%_30%_60%] transition-all duration-700 ease-in-out">
+                    <div className="w-64 h-64 2xl:w-[400px] 2xl:h-[400px] bg-gray-200 overflow-hidden shadow-xl relative rounded-[60%_40%_30%_70%/60%_30%_70%_40%] hover:rounded-[40%_60%_70%_30%/50%_60%_30%_60%] transition-all duration-700 ease-in-out animate-mobile-morph">
                         <img src="public\foto.jpg" alt="Tania Sanz - Desarrolladora Full Stack" className="w-full h-full object-cover" />
                         <div className="absolute inset-0 bg-black/5 mix-blend-overlay pointer-events-none"></div>
                     </div>
