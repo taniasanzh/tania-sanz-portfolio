@@ -27,8 +27,8 @@ export default function Footer() {
                 <div className="flex flex-col gap-10">
                     <ul className="flex flex-col gap-5 font-serif text-lg underline decoration-1 underline-offset-4">
                         <li><a href="https://www.linkedin.com/in/tania-sanz-hartmann-9b10a6330" target="_blank" rel="noreferrer" className="flex items-center gap-3">LinkedIn</a></li>
-                        <li><a href="https://github.com/tu-usuario" target="_blank" rel="noreferrer" className="flex items-center gap-3 ">GitHub</a></li>
-                        <li><a href="mailto:tuemail@ejemplo.com" className="flex items-center gap-3 ">Email</a></li>
+                        <li><a href="https://github.com/taniasanzh" target="_blank" rel="noreferrer" className="flex items-center gap-3 ">GitHub</a></li>
+                        <li><a href="mailto:taniasanzh@gmail.com" className="flex items-center gap-3 ">Email</a></li>
                     </ul>
 
                 </div>
@@ -76,8 +76,8 @@ export default function Footer() {
                 {/* links */}
                 <ul className="absolute top-0 right-0 flex flex-col gap-5 text-right font-serif text-lg underline decoration-1 underline-offset-4">
                     <li><a href="https://www.linkedin.com/in/tania-sanz-hartmann-9b10a6330" target="_blank" rel="noreferrer" className="">LinkedIn</a></li>
-                    <li><a href="https://github.com/tu-usuario" target="_blank" rel="noreferrer" className="">GitHub</a></li>
-                    <li><a href="mailto:tuemail@ejemplo.com" className="">Email</a></li>
+                    <li><a href="https://github.com/taniasanzh" target="_blank" rel="noreferrer" className="">GitHub</a></li>
+                    <li><a href="mailto:taniasanzh.com" className="">Email</a></li>
                 </ul>
 
                 {/* copy */}
