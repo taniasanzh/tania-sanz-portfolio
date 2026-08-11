@@ -30,7 +30,7 @@ export default function Navbar() {
                 <ul className="hidden md:flex space-x-8 text-gray-600 font-medium">
                     <li><a href="#about" className="text-gray-600 hover:text-burgundy transition-colors">Sobre mí</a></li>
                     <li><a href="#projects" className="text-gray-600 hover:text-burgundy transition-colors">Proyectos</a></li>
-                    <li><a href="#skills" className="text-gray-600 hover:text-burgundy transition-colors">Stack</a></li>
+                    <li><a href="#stack" className="text-gray-600 hover:text-burgundy transition-colors">Stack</a></li>
                     <li><a href="#contact" className="text-gray-600 hover:text-burgundy transition-colors">Contacto</a></li>
                 </ul>
                             {/* --- BTN HAMBURGUESA --- */}
@@ -75,7 +75,7 @@ export default function Navbar() {
                         </a>
                     </li>
                     <li>
-                        <a href="#skills" onClick={handleLinkClick} className="hover:text-burgundy transition-colors">
+                        <a href="#stack" onClick={handleLinkClick} className="hover:text-burgundy transition-colors">
                             Stack
                         </a>
                     </li>

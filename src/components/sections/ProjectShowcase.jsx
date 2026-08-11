@@ -46,7 +46,7 @@ export default function ProjectShowcase() {
     const currentVideoSrc = currentFeature.videos[device];
 
     return (
-        <section id="proyectos" className="relative w-full flex flex-col items-center px-8 pt-12 pb-24 2xl:pt-16">
+        <section id="projects" className="relative w-full flex flex-col items-center px-8 pt-12 pb-24 2xl:pt-16">
 
             <div className="w-full max-w-7xl mx-auto flex flex-col z-10">
 
