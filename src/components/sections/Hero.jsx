@@ -22,7 +22,7 @@ export default function Hero() {
                         </p>
 
                         <div className="flex items-center justify-center 2xl:justify-start gap-6 mt-6">
-                            <a href="public\Tania_Sanz_Hartmann_CV.pdf"
+                            <a href="/Tania_Sanz_Hartmann_CV.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="group flex items-center gap-2 text-gray-700 font-semibold tracking-wide uppercase text-sm transition-colors py-1">
